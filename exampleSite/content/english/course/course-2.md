@@ -6,7 +6,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
 image: images/courses/course-2.jpg
-category: Mathematics
+category: Bank
 teacher: Jacke Mastio
 duration: 06 Month
 weekly: 03 hours
