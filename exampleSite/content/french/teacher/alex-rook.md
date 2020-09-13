@@ -36,6 +36,7 @@ contact:
   icon: ti-location-pin
   link: "#"
 type: teacher
+draft: true
 
 ---
 ### À propos de moi
